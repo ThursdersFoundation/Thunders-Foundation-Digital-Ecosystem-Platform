@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- 🎨 ANIMATED THUNDER LOGO -->
@@ -126,7 +126,7 @@
 </svg>
 
 <br/>
-```
+
 # ⚡ Thunders Foundation
 ### Digital Ecosystem Platform
 
